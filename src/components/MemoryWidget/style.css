@@ -1,0 +1,50 @@
+.vertical-flex-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.memory-info-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  height: 45px;
+  padding-right: 15px;
+  padding-left: 15px;
+  background: rgba(20, 17, 24, 0.7);
+  border-radius: 12px;
+}
+.memory-description-text-style {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+}
+.memory-image-with-button {
+  box-sizing: border-box;
+  display: block;
+  width: 157px;
+  max-width: initial;
+  height: 15px;
+  margin-left: 31px;
+}
+.memory-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 49px;
+  min-width: 49px;
+  height: 27px;
+  margin-left: 15px;
+  font: 500 16px Inter, sans-serif;
+  color: white;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.07);
+  border: none;
+  border-radius: 7px;
+}

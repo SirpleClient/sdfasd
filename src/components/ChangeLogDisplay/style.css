@@ -1,0 +1,64 @@
+.dark-card-with-updates {
+  box-sizing: border-box;
+  padding: 24px 300px 52px 24px;
+  background: rgba(20, 17, 24, 0.7);
+  border-radius: 12px;
+}
+.flex-row-centered {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.change-log-title {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 600 18px Inter, sans-serif;
+  color: white;
+}
+.svg-container2 {
+  display: flex;
+  flex: 0 0 auto;
+  width: 24px;
+  height: 24px;
+  margin-left: 10px;
+  color: #ffffff;
+}
+.update-section-styles {
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 23px;
+}
+.brand-link {
+  padding: 0;
+  margin: 0;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+}
+.feature-update-notification {
+  padding: 0;
+  margin: 0;
+  margin-top: 51px;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+}
+.main-content-area {
+  padding: 0;
+  margin: 0;
+  margin-top: 36px;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+}
+.dynamic-feature-section {
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 42px;
+}
+.white-text-on-background {
+  padding: 0;
+  margin: 0;
+  margin-top: 29px;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+}

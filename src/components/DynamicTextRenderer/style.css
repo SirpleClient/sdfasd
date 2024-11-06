@@ -1,0 +1,10 @@
+.dynamic-feature-text-style {
+  padding: 0;
+  margin: 0;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+  white-space: pre-wrap;
+}
+.vertical-margin-text {
+  margin-top: 27px;
+}

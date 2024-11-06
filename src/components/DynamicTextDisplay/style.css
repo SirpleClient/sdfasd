@@ -1,0 +1,8 @@
+.dynamic-feature-container {
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 37px;
+}
+.dynamic-feature-text-style:first-child {
+  margin-top: 0px;
+}

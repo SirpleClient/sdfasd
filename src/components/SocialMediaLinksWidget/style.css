@@ -1,0 +1,49 @@
+.social-media-links-container2 {
+  flex: 0 0 auto;
+  padding-right: 65px;
+  padding-left: 65px;
+  margin-top: 12.5px;
+}
+.social-media-links-container {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 24.5px 34px 25.5px;
+  background: url("/assets/image_9ee2404b.png") 50% / cover no-repeat;
+}
+.social-media-heading {
+  padding: 0;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin: 0;
+  font: 600 18px Inter, sans-serif;
+  color: white;
+}
+.social-media-links-container1 {
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 22px;
+}
+.brand-link {
+  padding: 0;
+  margin: 0;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+}
+.client-info-text-style {
+  padding: 0;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin: 0;
+  margin-top: 25px;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+}
+.content-block {
+  padding: 0;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin: 0;
+  margin-top: 20px;
+  font: 400 16px Inter, sans-serif;
+  color: white;
+}
